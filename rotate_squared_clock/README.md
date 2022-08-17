@@ -10,13 +10,13 @@ examples:
 34  -->> 24 <br>
 
 
-123         412
-456  ==>>   753
-789         896
+123         412 <br>
+456  ==>>   753 <br>
+789         896 <br>
 
 
-abcd        eabc
-efgh ----\  ijfd
-ijkl ----/  mkgh
-mnop        nopl
+abcd        eabc <br>
+efgh ----\  ijfd <br>
+ijkl ----/  mkgh <br>
+mnop        nopl <br>
 
