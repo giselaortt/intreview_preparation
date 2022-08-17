@@ -16,7 +16,7 @@ examples:
 
 
 abcd        eabc <br>
-efgh ----\  ijfd <br>
-ijkl ----/  mkgh <br>
+efgh  ----\  ijfd <br>
+ijkl  ----/  mkgh <br>
 mnop        nopl <br>
 
